@@ -1,0 +1,6 @@
+/home/hobo/primary/school/prog_base_final/prog_base_final/bin/Debug/prog_base_final.exe
+/home/hobo/primary/school/prog_base_final/prog_base_final/bin/Debug/prog_base_final.pdb
+/home/hobo/primary/school/prog_base_final/prog_base_final/obj/Debug/prog_base_final.csprojAssemblyReference.cache
+/home/hobo/primary/school/prog_base_final/prog_base_final/obj/Debug/prog_base_final.csproj.CoreCompileInputs.cache
+/home/hobo/primary/school/prog_base_final/prog_base_final/obj/Debug/prog_base_final.exe
+/home/hobo/primary/school/prog_base_final/prog_base_final/obj/Debug/prog_base_final.pdb
